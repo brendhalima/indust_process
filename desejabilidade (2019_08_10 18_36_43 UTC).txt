@@ -1,0 +1,15 @@
+1)
+
+
+São funções para transformar um problema de várias respostas em um de uma única resposta por meio de transformações matemáticas. A primeira etapa desta transformação consiste em tornar cada resposta ym(x), m = 1,2...,p, em funções normalizadas dm[ym(x)] que possuem valores de imagem entre 0,0 e 1,0.
+Para minimização, na otimização unilateral, os limites superiores e inferiores são invertidos, o que equivale a um complemento (1– dm) para a função de conveniência. 
+Todas as funções de conveniência individuais são combinadas numa função global D (0 D 1), que é definida como a média geométrica das funções individuais:
+D = (d1 x d2 x .....dp )1/p
+Quanto maior o valor de D, mais conveniente é a resposta do sistema, sendo que o valor máximo de D é a solução otimizada do sistema.
+
+
+2) 
+
+A sistematização de técnicas computacionais que possam estimar a melhor combinação dos fatores que resulte na melhor combinação possível das respostas, considerando a importância relativa de cada resposta para o sistema estudado.
+
+O processo de determinar a condição de opração otima é através da sobreposição gráfica, onde é encontrada uma sub-região que satisfaça todas as condições impostas, e dentro dessa região é escolhido um ponto definido como ótimo. 
